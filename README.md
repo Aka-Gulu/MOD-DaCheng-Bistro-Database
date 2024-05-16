@@ -1,2 +1,2 @@
-# MOD-DaCheng-bistro-database
-MySQL
+# MOD-DaCheng-Bistro-Database
+## Please see the video: 
